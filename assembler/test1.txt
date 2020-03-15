@@ -1,0 +1,37 @@
+ADD K                 //hey trying something
+   //this is a sample comment
+   
+   L3 SUB p
+//Code Starts Here
+
+CLA // CLear Accumulator
+
+INP ='15'
+
+INP A //BerO
+
+LAC ='25'
+
+SUB B
+
+Shivam 100 //Wrong opcode
+
+ADD ='5'
+
+BRN L3
+
+DSP M
+
+CLA
+
+DSP C
+
+CLA
+
+T BRZ L3
+
+L4 CLA
+
+//STP Command Not given //Error Handled.
+
+

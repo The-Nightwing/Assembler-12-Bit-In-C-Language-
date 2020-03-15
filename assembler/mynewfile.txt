@@ -1,0 +1,30 @@
+ADD K                       
+   L3 SUB p
+
+CLA 
+INP ='15'
+
+INP A 
+LAC ='25'
+
+SUB B
+
+Shivam 100 
+ADD ='5'
+
+BRN L3
+
+DSP M
+
+CLA
+
+DSP C
+
+CLA
+
+T BRZ L3
+
+L4 CLA
+
+
+
