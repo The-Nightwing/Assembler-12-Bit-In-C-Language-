@@ -1,0 +1,8 @@
+The important files are 1)labtab.txt
+2)symtab2.txt
+3)literal2.txt
+4)test1.txt
+5)mynewfile.txt( converted usin 4) )
+6)ObjectFile.txt(The main file you need)
+
+All the other text files are helper files.
